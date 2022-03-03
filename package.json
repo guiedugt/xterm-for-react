@@ -1,5 +1,5 @@
 {
-	"name": "xterm-for-react",
+	"name": "@guiedugt/xterm-for-react",
 	"version": "1.0.2",
 	"description": "A React wrapper made for XTerm.js",
 	"main": "dist/bundle.js",
